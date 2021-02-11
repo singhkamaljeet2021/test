@@ -7,6 +7,7 @@ public class AppTest {
     @Test
     public void testApp() {
         App myApp = new App();
+        //hi
 
         String result = myApp.getStatus();
 
